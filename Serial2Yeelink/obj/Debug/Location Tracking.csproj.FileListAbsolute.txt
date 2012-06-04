@@ -1,0 +1,20 @@
+E:\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\bin\Debug\Location Tracking.exe.config
+E:\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\bin\Debug\Location Tracking.exe
+E:\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\bin\Debug\Location Tracking.pdb
+E:\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Debug\ResolveAssemblyReference.cache
+E:\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Debug\Location_Tracking.Form1.resources
+E:\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Debug\Location_Tracking.Properties.Resources.resources
+E:\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Debug\Location Tracking.exe
+E:\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Debug\Location Tracking.pdb
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\bin\Debug\Location Tracking.exe.config
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Debug\Location Tracking.exe
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Debug\Location Tracking.pdb
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\bin\Debug\Location Tracking.exe
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\bin\Debug\Location Tracking.pdb
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Debug\ResolveAssemblyReference.cache
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Debug\Location_Tracking.Form1.resources
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Debug\Location_Tracking.Properties.Resources.resources
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Debug\GenerateResource-ResGen.write.1.tlog

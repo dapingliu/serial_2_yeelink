@@ -1,0 +1,15 @@
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Release\ResolveAssemblyReference.cache
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Release\Location_Tracking.Form1.resources
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Release\Serial2HTTP.Properties.Resources.resources
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Release\GenerateResource-ResGen.read.1.tlog
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Location Tracking\obj\Release\GenerateResource-ResGen.write.1.tlog
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Serial2HTTP\obj\Release\ResolveAssemblyReference.cache
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Serial2HTTP\obj\Release\Location_Tracking.Form1.resources
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Serial2HTTP\obj\Release\GenerateResource-ResGen.read.1.tlog
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Serial2HTTP\obj\Release\GenerateResource-ResGen.write.1.tlog
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Serial2HTTP\obj\Release\Location_Tracking.Properties.Resources.resources
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Serial2HTTP\bin\Release\Serial2HTTP.exe.config
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Serial2HTTP\bin\Release\Serial2HTTP.exe
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Serial2HTTP\bin\Release\Serial2HTTP.pdb
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Serial2HTTP\obj\Release\Serial2HTTP.exe
+E:\sandbox\serial_http_data_forwarder_code\serial_http_data_forwarder_code\Serial2HTTP\obj\Release\Serial2HTTP.pdb
