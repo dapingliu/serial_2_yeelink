@@ -105,7 +105,7 @@ namespace Location_Tracking
             Properties.Settings.Default.Save();
 
             //If connection open
-            if ( (btnConnect.Text == "Disconnect") || (true) )
+            if ( (btnConnect.Text == "断开连接") || (true) )
             {
 
                 //Close serial port
@@ -154,7 +154,7 @@ namespace Location_Tracking
         {
 
             //If in ready to connect status, enable changing serial port, otherwise disable
-            if (btnConnect.Text == "Connect")
+            if (btnConnect.Text == "连接服务器")
             {
                 cboxSerialPort.Enabled = true;
                 txtServerURL.Enabled = true;
@@ -170,7 +170,7 @@ namespace Location_Tracking
             }
 
             //If if connect or disconnect status enable changing the button otherwise dissable (e.g. for intermediary stages)
-            if ((btnConnect.Text == "Connect") || (btnConnect.Text == "Disconnect"))
+            if ((btnConnect.Text == "连接服务器") || (btnConnect.Text == "断开连接"))
             {
                 btnConnect.Enabled = true;
             }
