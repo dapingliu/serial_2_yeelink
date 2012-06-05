@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Location_Tracking</RootNamespace>
     <AssemblyName>Serial2Yeelink</AssemblyName>
-    <ApplicationIcon>Motor mechanic.ico</ApplicationIcon>
+    <ApplicationIcon>port.ico</ApplicationIcon>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <UpgradeBackupLocation>
@@ -100,6 +100,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Motor mechanic.ico" />
+    <Content Include="port.ico" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
